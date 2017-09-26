@@ -164,4 +164,4 @@ puts Book.borrowed.inspect
 
 
 puts "!!!!!!!!!!!!!!!!"
-puts harry_potter.due_date
+puts harry_potter.due_date(nil)
