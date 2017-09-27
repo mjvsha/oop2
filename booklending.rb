@@ -97,6 +97,7 @@ end
 
 
 def self.current_due_date
+  #3 weeks later
 
   @due_date = Time.now + 1.814e+6
 
